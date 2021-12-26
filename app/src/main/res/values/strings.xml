@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ellocart App</string>
+    <string name="search_products">Search Products</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="banners">Banners</string>
+    <string name="category_wise_stores">CATEGORY WISE STORES</string>
+    <string name="see_more">See More</string>
+    <string name="explore_icon">Explore Icon</string>
+</resources>
